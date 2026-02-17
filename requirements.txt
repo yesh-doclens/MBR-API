@@ -1,1 +1,11 @@
-fastapi[all]
+fastapi
+uvicorn
+python-multipart
+boto3
+pandas
+pypdf
+pymupdf
+rapidfuzz
+pillow
+langchain-aws
+langchain-experimental

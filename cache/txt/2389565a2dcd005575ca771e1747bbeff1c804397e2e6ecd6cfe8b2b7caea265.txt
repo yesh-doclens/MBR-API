@@ -1,0 +1,1183 @@
+
+[PAGE 2]
+
+CLIENT:
+D/A:
+8/5/2022
+SUBJECT: EXPENSE SUMMARY
+EXPENSES
+MEDICAL BILLS
+AMOUNT
+Jack Hughston Hospital (ER)
+$1,781.50
+Care Ambulance
+$ 934.50
+Dr. Dennis Harden
+$ 759.00
+Bridgeway Diagnostic
+$1,545.00
+Phenix City Physical Therapy
+$1,885.00
+TOTAL:
+$6,605.00
+
+[PAGE 3]
+
+To:,
+Page: 16 of 18
+2022-11-17 11:04:47 EST
+18666747481
+From: Production Primary
+JACK HUGHSTON MEMORIAL
+4401 RIVER CHASE DRIVE
+PHENIX CITY
+AL 36867
+334-732-3000
+PATIENT NAME
+ACCOUNT NO.
+ROOM/BED ADMIT DATE
+DIS. DATE
+PAGE
+0003 0426513-01
+8/05/22
+8/05/22
+1
+GUARANTOR NAME/ADDR.
+F/C
+PAYORS
+BILLING DATE
+A1
+513 103
+8/24/22
+21016
+PAT. AGE
+DR. NAME
+FINAL BILL
+36
+OSHINOWO ABAYOMI
+CHRG CODE REV
+DESCRIPTION
+QTY UNIT PRICE
+AMOUNT
+CPT CODE
+8/05 4157300 0320 XR CLAVICLE LT
+1
+200.00
+200.00
+73000 LT
+8/05
+4157330
+0320 XR SHOULDER 2V/MORE
+1
+220.00
+220.00
+73030 LT
+8/05
+4400253
+0250 DEXAMETHASONE 4MG/ML
+4
+7.92
+31.68
+8/05
+4400499
+0250 KETOROLAC 60MG VIAL
+4
+12.00
+48.00
+8/05
+4401516
+0250 METHOCARBAMOL 500MG
+2
+6.00
+12.00
+8/05
+4601073
+0450 ER LEVEL FOUR - 25
+1
+945.00
+945.00
+99284 25
+8/05 4601306 0450 IM INJECTION
+2
+162.41
+324.82
+96372
+AMOUNT FOR THIS BILL
+1781.50
+PAYMENT AMOUNT
+.00
+PREVIOUS BALANCE
+.00
+TOTAL PATIENT BALANCE
+1781.50
+
+[PAGE 4]
+
+To:,
+Page: 17 of 18
+2022-11-17 11:04:47 EST
+18666747481
+From: Production Primary
+JACK HUGHSTON MEMORIAL
+4401 RIVER CHASE DRIVE
+PHENIX CITY
+AL 36867
+334-732-3000
+PATIENT NAME
+ACCOUNT NO.
+ROOM/BED ADMIT DATE
+DIS. DATE
+PAGE
+0003 0426513- 01
+8/05/22
+8/05/22
+2
+GUARANTOR NAME/ADDR.
+F/C
+PAYORS
+BILLING DATE
+A1
+513 103
+8/24/22
+21016
+PAT. AGE
+DR. NAME
+FINAL BILL
+36
+OSHINOWO ABAYOMI
+CHRG CODE REV
+DESCRIPTION
+QTY UNIT PRICE
+AMOUNT
+CPT CODE
+SUMMARY OF CHARGES
+DX X- RAY
+420.00
+PHARMACY
+91.68
+EMERG ROOM
+1269.82
+PREV. PATIENT BALANCE
+$.00
+TOTAL CHARGES
+$1781.50
+TOTAL PAYMENTS
+$.00
+TOTAL PATIENT BALANCE
+
+[PAGE 5]
+
+To:
+Page: 18 of 18
+2022-11-17 11:04:47 EST
+18666747481
+From: Production Primary
+&
+3a PAI
+JACK HUGHSTON MEMORIAL
+CNTI 0
+0003 0426513-01
+AS
+b. MED
+4401 RIVER CHASE DRIVE
+REC Y
+22684
+0131
+6 STATEMENT COVERS PERIOD
+7
+PHENIX CITY AL 368670000
+S FED. TAX NO.
+FROM
+THROUGH
+334-732-3000
+080522
+080522
+e PATIENT NAME
+H
+23 PATIENT ADDRESS
+5.
+"
+h
+:
+C.
+1) BIRTHDATE
+11 SEX
+ADMISSON
+14 TYPE
+15 SRC
+16 DHR
+17 STAT
+CONDITION CODER
+29 ACOT
+00
+12 DATE
+12THR
+10
+10
+20
+21
+20
+23
+24
+25
+26
+27
+20
+STATE
+M
+080522
+20
+1
+1
+22
+01
+AL
+01
+OCCURRENCE
+OCCURRENCE
+03
+OCCURRENCE
+03
+OCCURRENCE SPAN
+30
+OCCURRENCE GRAN
+37
+CODE
+DATE
+GOLD
+Till
+CODE
+DATE
+CODE
+FROM
+THROUGH
+CODE
+FROM
+THROUGH
+01
+080522
+11
+080522
+as
+30
+VALUE CODES
+COOK
+41
+VALUE CODES
+CODE
+AMOUNT
+CODE
+YOUNT
+CODE
+AMOUNT
+a
+45
+000
+b
+C
+d
+SERVICE
+44 HOROR RA r CLUB
+45 SeRV DATE
+18 S=HV UNITS
+47 TOTAL CHARGES
+48 MEM CONTRAIL HARGES
+40
+0250
+PHARMACY
+080522
+10
+9168
+0320
+XR CLAVICLE LT
+73000LT
+080522
+1
+20000
+0320
+XR SHOULDER 2V/MORE
+73030LT
+080522
+1
+22000
+0450
+ER LEVEL FOUR - 25
+9928425
+080522
+1
+94500
+0450
+IM INJECTION
+96372
+080522
+2
+32482
+0001
+PAGE
+1
+OF
+1
+CREATION DATE
+082422
+TOTALS
+178150
+to PAYER NAME
+51 HEALTH PLAN ID
+was
+BACK
+SA PRIOR PAYMENTS
+55 ESC AMOUNT DUE
+56 NPI
+INFO
+BEL
+1023050101
+ASPIRION MED PAY
+Y
+Y
+57
+HUMANA GOLD MEDICARE
+Y
+Y
+OTHER
+PRV ID
+38 INSURED'S NAME
+SARREL
+00 INSURED'S UNIQUE ID
+of GROUP NAME
+02 INSURANCE CRCUP NO.
+83 TREATMENT AUTHORIZATION CODES
+54 DOCUMENT CONTROL NUMBER
+68 EMPLOYER NAME
+86
+M25512
+08
+DX
+0
+CD ADMIT
+all PATIENT
+71 PPS
+72
+it
+DX
+REASON DX
+S4982XA
+CODE
+EC
+V892XXA
+Y92488
+74
+PRINCIPAL PROCEDURE
+PROCEDU 0.
+OTHER PROCEDURE
+75
+CODE
+DATE
+CODE
+DATE
+:
+76 AIT ENDING
+1417956467
+OJ
+1G
+OSHINOWO
+ABAYOMI
+PROCEDURESS
+OTHER PROCEDURE
+EDUCE
+CODE POATE
+CODE
+DATE
+77 OPERATING
+CONTA DATE
+NPI
+OU
+L
+=
+810G
+20 HEWARKS
+ASPIRION MED PAY
+B
+32
+2N00000X
+7a OTHER
+NPI
+Q.I
+233 12TH STREET
+b
+L
+F
+SUITE 200
+0
+70 OTHA
+NM
+ou
+COLUMBUS
+GA 31902
+C
+08-04 CMS-1460
+POST DATE:
+APPROVED 8/24/22 CHRING 0097
+0003
+0426513
+NEW TEP24394485
+THE CE
+
+[PAGE 18]
+
+From: ChartPro Incorporated Fax: 16786661269
+To: 13342980176@rcfax.com
+Fax: (334) 298-0176
+Page: 23 of 27
+12/12/2022 12:38 PM
+Transactions
+#
+Svc Date
+Posted
+Description
+Amount
+Debits
+242
+9/21/22
+9/28/22
+99213 (CPT®) - PR EST EVAL VISIT LVL 3
+253.00
+243 2000-INSURANCE PAYMENT (INSURANCE) - HUMANA MEDICARE
+Allowed: 87.26
+Paid/Adj: 85.86
+Remit Codes: 253,45 (Mapped to: 253-SEQUESTRATION " REDUCTION IN FEDERAL SPENDING
+244 4620-MEDICARE SEQUESTRATION WRITE-OFF (INSURANCE) - HUMANA MEDICARE
+Paid/Adj: 1.40
+245 3000-CONTRACTUAL WRITE-OFF (INSURANCE) - HUMANA MEDICARE
+Paid/Adi: 165 74
+Credits
+2000 - INSURANCE PAYMENT (INSURANCE) -
+243
+10/14/22
+10/16/22
+-85.86
+Humana Medicare
+4620 - MEDICARE SEQUESTRATION WRITE-OFF
+244
+10/14/22
+10/16/22
+-1.40
+(INSURANCE)
+245
+10/14/22
+10/16/22
+3000 - CONTRACTUAL WRITE-OFF (INSURANCE)
+-165.74
+Outstanding balance
+0.00
+Payments by Payer
+Payer
+Payments
+Adjustments
+Humana Medicare
+-85.86
+-167.14
+Invoices
+HUMANA MEDICARE - HUMANA MEDICARE ADVANTAGE HMO
+Number
+Status
+Accepted
+E1242462540
+Closed
+9/29/2022
+Appointments
+Office Visit with Dennis K Harden, MD
+Patient: Owens,Preston R
+Time: 9:30 AM
+Length: 15 minutes
+Notes: 4 Weeks
+room 1
+Temp 97.6
+Printed by Almira Hibic [C84933] 11/22/2022 10:57 AM
+Page 2 of 2
+
+[PAGE 19]
+
+From: ChartPro Incorporated Fax: 16786661269
+To: 13342980176@rcfax.com
+Fax: (334) 298-0176
+Page: 24 of 27
+12/12/2022 12:38 PM
+10/16/22
+Transaction
+#
+Dep Date
+Description
+Amount
+245
+10/14/22
+3000 - CONTRACTUAL WRITE-OFF (INSURANCE)
+-165.74
+244
+10/14/22
+4620 - MEDICARE SEQUESTRATION WRITE-OFF
+-1.40
+(INSURANCE)
+243
+10/14/22
+2000 - INSURANCE PAYMENT (INSURANCE) - Humana
+-85.86
+Medicare
+Charge Actions
+Action
+Payer
+Tx #
+Adjustment Code
+User
+Amount
+Recalculate
+242
+EPIC, USER
+0.00
+Discount
+Next Responsible
+MEDICAID
+242
+BRYANT-
+0.00
+Party
+WYLEY,
+SYLVIA
+Not Allowed
+242
+CONTRACTUAL WRITE-OFF
+BRYANT-
+165.74
+Adjustment
+(INSURANCE)
+WYLEY,
+SYLVIA
+Write Off Insurance
+242
+MEDICARE
+BRYANT-
+1.40
+SEQUESTRATION WRITE-
+WYLEY,
+OFF (INSURANCE)
+SYLVIA
+9/29/22
+Claims
+Pmt/Adj
+Payer
+Invoice
+Form
+Ins
+Filed
+Resubmit
+Paid
+Amount
+Amt
+HUMANA
+E1242462540
+Elec PHC PB
+YES
+9/29/2022
+10/16/2022
+253.00
+253.00
+MEDICARE
+CEV 837
+9/28/22
+Transaction
+#
+Dep Date
+Description
+Amount
+242
+9/21/22
+99213 (CPT) - PR EST EVAL VISIT LVL 3
+253.00
+9/21/22
+Appointment
+Office Visit with Dennis K Harden, MD
+Printed by Almira Hibic [C84933] 11/22/2022 10:57 AM
+Page 1 of 1
+
+[PAGE 21]
+
+From: ChartPro Incorporated Fax: 16786661269
+To: 13342980176@rcfax.com Fax: (334) 298-0176
+Page: 26 of 27
+12/12/2022 12:38 PM
+Transactions
+#
+Svc Date
+Posted
+Description
+Amount
+Debits
+233
+8/24/22
+8/30/22
+99213 (CPT) - PR EST EVAL VISIT LVL 3
+253.00
+237 2000-INSURANCE PAYMENT (INSURANCE) - HUMANA MEDICARE
+Allowed: 87.26
+Paid/Adj: 85.86
+Kemit Codes: 253,45 (Mapped to: 253-SEQUESTRATION REDUCTION IN FEDERAL SPENDING,
+238 4620-MEDICARE SEQUESTRATION WRITE-OFF (INSURANCE) - HUMANA MEDICARE
+Paid/Adj: 1.40
+239 3000-CONTRACTUAL WRITE-OFF (INSURANCE) - HUMANA MEDICARE
+Paid/Adj: 165.74
+Credits
+2000 INSURANCE PAYMENT (INSURANCE)
+237
+9/13/22
+9/14/22
+-85.86
+Humana Medicare
+4620 - MEDICARE SEQUESTRATION WRITE-OFF
+238
+9/13/22
+9/14/22
+-1.40
+(INSURANCE)
+239
+9/13/22
+9/11/22
+3000
+CONTRACTUAL WRITE OFF (INSURANCE)
+165.74
+Outstanding balance
+0.00
+Payments by Payer
+Payer
+Payments
+Adjustments
+Humana Medicare
+-85.86
+-167.14
+Invoices
+HUMANA MEDICARE - HUMANA MEDICARE ADVANTAGE HMO
+Number
+Status
+Accepted
+E1239090740
+Closed
+8/31/2022
+Appointments
+Office Visit with Dennis K Harden, MD
+Patient:
+Time: 9:00 AM
+Length: 15 minutes
+Notes: Return in about 2 weeks (around 8/24/2022).
+ROOM 4
+97.5
+Printed by Almira Hibic [C84933] 11/22/2022 10:58 AM
+Page 2 of 2
+
+[PAGE 22]
+
+From: ChartPro Incorporated Fax: 16786661269
+To: 13342980176@rcfax.com
+Fax: (334) 298-0176
+Page: 27 of 27
+12/12/2022 12:38 PM
+9/14/22
+Transaction
+#
+Dep Date
+Description
+Amount
+239
+9/13/22
+3000 - CONTRACTUAL WRITE-OFF (INSURANCE)
+-165.74
+238
+9/13/22
+4620 - MEDICARE SEQUESTRATION WRITE-OFF
+-1.40
+(INSURANCE)
+237
+9/13/22
+2000 - INSURANCE PAYMENT (INSURANCE) - Humana
+-85.86
+Medicare
+Charge Actions
+Action
+Payer
+Tx #
+Adjustment Code
+User
+Amount
+Recalculate
+233
+EPIC, USER
+0.00
+Discount
+Next Responsible
+MEDICAID
+233
+BRYANT-
+0.00
+Party
+WYLEY,
+SYLVIA
+Not Allowed
+233
+CONTRACTUAL WRITE-OFF
+BRYANT-
+165.74
+Adjustment
+(INSURANCE)
+WYLEY,
+SYLVIA
+Write Off Insurance
+233
+MEDICARE
+BRYANT-
+1.40
+SEQUESTRATION WRITE-
+WYLEY,
+OFF (INSURANCE)
+SYLVIA
+8/31/22
+Claims
+Pmt/Adj
+Payer
+Invoice
+Form
+Ins
+Filed
+Resubmit
+Paid
+Amount
+Amt
+HUMANA
+E1239090740
+Elec PHC PB
+YES
+8/31/2022
+9/14/2022
+253.00
+253.00
+MEDICARE
+CEV 837
+8/30/22
+Transaction
+#
+Dep Date
+Description
+Amount
+233
+8/24/22
+99213 (CPT) - PR EST EVAL VISIT LVL 3
+253.00
+8/24/22
+Appointment
+Office Visit with Dennis K Harden, MD
+Printed by Almira Hibic [C84933] 11/22/2022 10:58 AM
+Page 1 of 1
+
+[PAGE 41]
+
+-
+-
+From: Mary Mills
+Fax: 13344082854
+- To:
+Fax: (334) 298-0176
+Page: 2 of 18
+01/09/2023 3:41 PM
+XML Statement
+Page 1 of 1
+Practice
+Patient
+BRIDGEWAY DIAGNOSTIC RADIOLOGY,
+LLC
+P.O. BOX 242848
+MONTGOMERY, AL, 36124
+800-334-1757
+Name
+Account #
+Tax ID: 47-1579306
+Date
+01/09/2023
+Patient Balance
+0
+The balance due is your responsibility. Please remit. Thank you.
+Charge
+Amount
+Provider
+Date
+CPT
+ICD
+Comments
+Payment / ADJ
+Charged
+Patient
+ROHENAI
+09/24/2022
+73221
+M25.512
+Mrl joint upr extrem w/o dye
+0
+1545.00
+Total Amount
+Current
+Above 30
+Above 60
+Above 90
+Above 120
+Total Balance
+Charged
+0
+0
+0
+0
+0
+0
+1545.00
+file://C:/Users/mmills/SequelMedXml/Statement/alstatement.xml
+1/9/2023
+
+[PAGE 58]
+
+Page 1 of 2
+Care Ambulance a Division of Haynes
+CARE
+SIGNATURE AND INSURANCE REQUEST FORM
+PO BOX 863
+Ambulance
+LEWISVILLE NC 270230863
+FEDERAL TAX ID: 83-2156832
+Our records indicate that the ambulance services provided were the result of an
+Account Details
+accident and may be covered by a third party such as workers' compensation,
+automobile or some other type of liability insurance.
+Statement Date:
+08/15/2022
+In these cases, third party liability insurance is considered the primary payer and
+Date of Service:
+08/05/2022
+therefore will be filed first.
+Run Number:
+22-1512426
+Please provide the associated third-party liability/motor vehicle insurance as well as
+Bill To:
+your health insurance. In order to file to your insurance, we will need your signature.
+Patient Name:
+Please see the "Need to provide insurance or make a payment?" section for how you
+can provide us this information by mail or online at our patient portal.
+Origin:
+3706 IONA DR PCPD PHENIX CITY
+AL 36867
+Destination:
+JACK HUGHSTON MEMORIAL
+HOSPITAL
+NEED TO PROVIDE INSURANCE
+OR MAKE A PAYMENT?
+ONLINE: www.emsbilling.com/patient
+Account Activity
+BY MAIL: Complete the reverse side of this statement
+and return or send check/money order and include the
+Description
+Quantity
+Total
+lower portion. An enclosed envelope has been provided
+ALS Emergency Transport
+1
+$900.00
+for your convenience.
+Mileage
+2.3
+$34.50
+BY PHONE: Call 1(877) 761-1032 Monday through
+Total Charges:
+$934.50
+Friday 8 am to 6 pm EST.
+Amount Due Before Insurance:
+$934.50
+Para asistencia en español, por favor llame a sevicio al
+cliente al 1(877) 761-1032.
+A10
+PATIENT / GUARANTOR NAME:
+STATEMENT DATE:
+08/15/2022
+CARE
+Care Ambulance a Division of Haynes
+PO BOX 863
+DATE OF SERVICE:
+08/05/2022
+Ambulance
+LEWISVILLE NC 270230863
+RUN NUMBER:
+22-1512426
+AMOUNT DUE:
+$934.50
+AMOUNT ENCLOSED:
+$
+ELECTRONIC SERVICE REQUESTED
+3147016760 PRESORT PBPS039 <B>
+Care Ambulance a Division of Haynes
+PO BOX 863
+LEWISVILLE NC 270230863
+Federal Tax ID: 83-2156832
+Incident Number: 67562
+
+[PAGE 59]
+
+PT of Phenix City, PC
+1321 9th Ave
+Statement Date
+Page
+Phenix City, AL 36867 5027
+9/30/2022
+1
+(334)448-2641
+Chart Number
+Date of Last Payment:
+Amount:
+0.00
+Previous Balance:
+0.00
+Patient:
+Chart Number:
+Case:
+Acute pain of left shoulder
+Amount Paid by
+Paid By
+Dates
+Procedure
+Procedure
+Charge
+Insurance
+Guarantor
+Adjustments
+Remainder
+09/07/22
+97161
+PT EVAL: LOW COMPLEX 20
+150.00
+0.00
+0.00
+150.00
+09/07/22
+97110
+Therapeutic Exercise
+50.00
+0.00
+0.00
+50.00
+09/07/22
+97110
+Therapeutic Exercise
+50.00
+0.00
+0.00
+50.00
+09/07/22
+G0283
+Electrical Stimulation - Not
+45.00
+0.00
+0.00
+45.00
+09/07/22
+97112
+Neuromuscular Re-ed
+60.00
+0.00
+0.00
+60.00
+09/09/22
+97110
+Therapeutic Exercise
+50.00
+0.00
+0.00
+50.00
+09/09/22
+97110
+Therapeutic Exercise
+50.00
+0.00
+0.00
+50.00
+09/09/22
+G0283
+Electrical Stimulation - Not
+45.00
+0.00
+0.00
+45.00
+09/09/22
+97112
+Neuromuscular Re-ed
+60.00
+0.00
+0.00
+60.00
+09/13/22
+97110
+Therapeutic Exercise
+50.00
+0.00
+0.00
+50.00
+09/13/22
+97110
+Therapeutic Exercise
+50.00
+0.00
+0.00
+50.00
+09/13/22
+G0283
+Electrical Stimulation - Not
+45.00
+0.00
+0.00
+45.00
+09/13/22
+97112
+Neuromuscular Re-ed
+60.00
+0.00
+0.00
+60.00
+09/16/22
+97110
+Therapeutic Exercise
+50.00
+0.00
+0.00
+50.00
+09/16/22
+97110
+Therapeutic Exercise
+50.00
+0.00
+0.00
+50.00
+09/16/22
+G0283
+Electrical Stimulation - Not
+45.00
+0.00
+0.00
+45.00
+09/16/22
+97112
+Neuromuscular Re-ed
+60.00
+0.00
+0.00
+60.00
+09/21/22
+97110
+Therapeutic Exercise
+50.00
+0.00
+0.00
+50.00
+09/21/22
+97110
+Therapeutic Exercise
+50.00
+0.00
+0.00
+50.00
+09/21/22
+G0283
+Electrical Stimulation - Not
+45.00
+0.00
+0.00
+45.00
+09/21/22
+97112
+Neuromuscular Re-ed
+60.00
+0.00
+0.00
+60.00
+09/26/22
+97110
+Therapeutic Exercise
+50.00
+0.00
+0.00
+50.00
+09/26/22
+97110
+Therapeutic Exercise
+50.00
+0.00
+0.00
+50.00
+09/26/22
+G0283
+Electrical Stimulation - Not
+45.00
+0.00
+0.00
+45.00
+09/26/22
+97112
+Neuromuscular Re-ed
+60.00
+0.00
+0.00
+60.00
+Total Charges
+Total Payments
+Total Adjustments
+Balance Due
+1,585.00
+0.00
+0.00
+Continued
+
+[PAGE 60]
+
+PT of Phenix City, PC
+1321 9th Ave
+Statement Date
+Page
+Phenix City, AL 36867 5027
+9/30/2022
+2
+(334)448-2641
+Chart Number
+09/30/22
+97110
+Therapeutic Exercise
+50.00
+0.00
+0.00
+50.00
+09/30/22
+97110
+Therapeutic Exercise
+50.00
+0.00
+0.00
+50.00
+09/30/22
+G0283
+Electrical Stimulation - Not
+45.00
+0.00
+0.00
+45.00
+09/30/22
+97112
+Neuromuscular Re-ed
+60.00
+0.00
+0.00
+60.00
+Total Charges
+Total Payments
+Total Adjustments
+Balance Due
+1,585.00
+0.00
+0.00
+1,585.00
