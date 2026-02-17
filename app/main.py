@@ -189,7 +189,7 @@ async def load_demo_data():
     try:
         print("Loading demo data...")
         # Define paths
-        base_dir = Path(__file__).parent.parent.parent / "Page_classification"
+        base_dir = Path.cwd() / "Page_classification"
         print(f"Base dir: {base_dir}")
         
         pdf_path = base_dir / "GP2.pdf"
