@@ -14,7 +14,15 @@ from datetime import datetime
 from .pricing import enrich_with_medicare_data
 
 # Cache directory paths
-CACHE_DIR = Path(__file__).parent.parent / "cache"
+# Use /tmp for Vercel serverless (writable), fallback to local for development
+import os
+if os.environ.get('VERCEL'):
+    # Vercel serverless environment - use /tmp (ephemeral storage)
+    CACHE_DIR = Path("/tmp/cache")
+else:
+    # Local development - use project cache directory
+    CACHE_DIR = Path(__file__).parent.parent / "cache"
+
 TEXTRACT_CACHE_DIR = CACHE_DIR / "textract"
 TXT_CACHE_DIR = CACHE_DIR / "txt"
 RECORDS_CACHE_DIR = CACHE_DIR / "records"
@@ -98,7 +106,12 @@ def check_user_cache(content_hash: str) -> Optional[List[Dict[str, Any]]]:
 
 def call_textract(image_bytes: bytes) -> Dict[str, Any]:
     """Call AWS Textract analyze_document API."""
-    session = boto3.Session(profile_name="aidev")
+    # Use environment variables in Vercel, profile in local development
+    if os.environ.get('VERCEL'):
+        session = boto3.Session()  # Uses AWS_ACCESS_KEY_ID, AWS_SECRET_ACCESS_KEY from env
+    else:
+        session = boto3.Session(profile_name="aidev")
+    
     textract_client = session.client(service_name="textract", region_name="us-east-1")
     response = textract_client.analyze_document(
         Document={'Bytes': image_bytes},
@@ -202,7 +215,12 @@ def textract_response_to_txt(response: Dict[str, Any]) -> str:
 
 def parse_txt_with_llm(txt_content: str) -> List[Dict[str, Any]]:
     """Use Claude Sonnet 3.5 to parse TXT content."""
-    session = boto3.Session(profile_name="aidev")
+    # Use environment variables in Vercel, profile in local development
+    if os.environ.get('VERCEL'):
+        session = boto3.Session()  # Uses AWS_ACCESS_KEY_ID, AWS_SECRET_ACCESS_KEY from env
+    else:
+        session = boto3.Session(profile_name="aidev")
+    
     bedrock_client = session.client(service_name="bedrock-runtime", region_name="us-east-1")
 
     extraction_prompt = f"""Analyze the following medical bill text extracted via OCR and extract all line items/procedures.
